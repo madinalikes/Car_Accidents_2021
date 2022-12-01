@@ -1,4 +1,4 @@
-# Team9Project1Py
+# TeamProject
 Jack Miller, Madina Zhaksylyk, Juan Marin, Glen Dagger
 
 <br>
