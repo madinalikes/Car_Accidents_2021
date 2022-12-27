@@ -1,4 +1,4 @@
-# TeamProject
+# Car Accidents in the US
 Jack Miller, Madina Zhaksylyk, Juan Marin, Glen Dagger
 
 <br>
